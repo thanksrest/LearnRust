@@ -52,7 +52,7 @@ More lessons will be added in future updates! 🚀
 
 ## 🤝 Contributing  
 
-We welcome contributions! If you have ideas for new lessons, improvements, or bug fixes:  
+contributions are welcome! If you have ideas for new lessons, improvements, or bug fixes:  
 1. Fork the repository  
 2. Create a new branch (`git checkout -b feature-branch`)  
 3. Commit your changes (`git commit -m "Add new lesson"`)  

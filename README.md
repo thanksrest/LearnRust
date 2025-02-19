@@ -17,7 +17,7 @@
 - Clone the repository:  
 
   ```sh
-  git clone https://github.com/your-username/rust_learner.git
+  git clone https://github.com/thanksrest/rust_learner.git
   cd rust_learner
   ```  
 

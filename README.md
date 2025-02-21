@@ -2,6 +2,9 @@
 
 **learnRust** is an interactive learning platform designed to teach the Rust programming language through guided lessons and hands-on exercises. Whether you're a beginner or an experienced programmer, RustLearner provides a structured approach to mastering Rust's powerful features.  
 
+> **Note from Cassidy:**  
+Hey there! Just a quick heads-up – make sure to check out the **"Master"** branch for the actual source code. The other branches are for different features or experiments, but the **"Master"** branch is where the stable version of the project lives. If you’re looking to contribute or explore the core functionality, that’s the place to be. Thanks for checking out **learnRust**, and feel free to reach out if you have any questions or feedback!
+
 ## Features  
 
 -  **Interactive CLI** – Learn Rust step by step with an engaging command-line interface.  
@@ -62,4 +65,3 @@ contributions are welcome! If you have ideas for new lessons, improvements, or b
 ## 📜 License  
 
 LearnRust is open-source and licensed under the [MIT License](LICENSE).  
-

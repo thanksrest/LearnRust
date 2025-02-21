@@ -1,6 +1,6 @@
 # LearnRust 🚀  
 
-**RustLearner** is an interactive learning platform designed to teach the Rust programming language through guided lessons and hands-on exercises. Whether you're a beginner or an experienced programmer, RustLearner provides a structured approach to mastering Rust's powerful features.  
+**learnRust** is an interactive learning platform designed to teach the Rust programming language through guided lessons and hands-on exercises. Whether you're a beginner or an experienced programmer, RustLearner provides a structured approach to mastering Rust's powerful features.  
 
 ## Features  
 
@@ -18,7 +18,7 @@
 
   ```sh
   git clone https://github.com/thanksrest/learnrust.git
-  cd rust_learner
+  cd learnrust
   ```  
 
 - Build the project:  

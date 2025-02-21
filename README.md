@@ -61,5 +61,5 @@ contributions are welcome! If you have ideas for new lessons, improvements, or b
 
 ## 📜 License  
 
-RustLearner is open-source and licensed under the [MIT License](LICENSE).  
+LearnRust is open-source and licensed under the [MIT License](LICENSE).  
 
